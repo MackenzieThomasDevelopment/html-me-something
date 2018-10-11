@@ -1,0 +1,109 @@
+body{
+    background-image:url('images/red-city.gif');
+}
+
+/* nav{
+    background-image: url('images/nav_cat.gif');
+    width:100%;
+    height:200px;
+    margin:0 auto;
+    overflow: hidden;
+} */
+
+/* .nav-cat{
+    width:100%;
+    position: relative;
+    z-index:-5 ;
+} */
+
+ul{
+  /* position: absolute;
+  z-index: 5; */
+
+}
+
+ul li{
+    display:inline-block;
+    border-image: url('images/nav_cat.gif') 50; 
+    border-style:solid;
+    border-width: 20px; 
+}
+
+#wrapper{
+    background-color:rgba(0, 0, 0, 0.6);
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 80%;
+    height: 2600px;
+    border-radius: 3px;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+}
+
+.fire{
+    width:16%;
+}
+
+.trex{
+    width:20%;
+}
+
+.myspace{
+    width:50%;
+}
+
+.banana{
+    width:20%;
+}
+
+.baby{
+    width:30%;
+}
+
+.bunchie{
+    width:30%;
+}
+
+.hamster{
+    width:30%;
+}
+
+.lemon{
+    width:30%;
+    height:180px;
+}
+
+.racist{
+    width:30%;
+    height:180px;
+}
+
+.enough{
+    width:30%;
+    height:180px;
+}
+
+header img{
+    width:200px;
+    height:200px;
+}
+
+h2{
+    color:#ffffff;
+    font-size:1.8em;
+}
+
+p{
+    color:#ffffff;
+}
+
+footer{
+    color:#ffffff;
+    margin-top:30px;
+}
